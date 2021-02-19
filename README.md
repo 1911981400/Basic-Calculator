@@ -15,4 +15,4 @@ User Story 5 : You can clear the input field with a clear button.
 
 Create this assignment in Projects module and once you are done, submit the URL of your project link in answer field.
 
-Refer the below sample outputes.
+
