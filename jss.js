@@ -1,6 +1,10 @@
-
+ 
 $(document).ready(function () {
-    function calculator(){
+  function zoom() {
+    document.body.style.zoom = "400%" 
+}
+  
+  function calculator(){
     var sum = "";
     var len;
     var operators = ["+", "-", "*", "/"];
@@ -41,5 +45,5 @@ $(document).ready(function () {
   
       };
             calculator();
-
+            zoom();
 });
